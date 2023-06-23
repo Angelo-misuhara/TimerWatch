@@ -1,0 +1,7 @@
+.cont{
+display: flex;
+margin-top: 10rem;
+}
+body{
+  background-image: url(img/rei.jpg);
+}
